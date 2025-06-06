@@ -26,7 +26,7 @@ class: lead
 1. 🧐 ¿Qué diseño te parece más profesional?
 2. 📝 ¿Qué es el diseño?
 3. 📐 Principios del diseño
-4. ⭐️ y una cosa más
+4. ⭐️ y una cosa más...
 5. 🎲 Más recursos
 
 ---
@@ -110,7 +110,7 @@ Es importante crear una rejilla para mantener una relación entre los elementos,
 <strong>Queremos dar claridad al usuario, que no piense, que entienda la estructura fácilmente</strong>
 
 Referencias:
-- 🧩 [Leyes de la buena forma – Teoría de la Gestalt](https://es.wikipedia.org/wiki/Leyes_de_la_organización_perceptual): 
+- 🧩 [Leyes de la buena forma – Teoría de la Gestalt](https://es.wikipedia.org/wiki/Psicolog%C3%ADa_de_la_Gestalt) 
 
 ![bg right:40%](img/estructura.jpg)
 
@@ -123,8 +123,8 @@ Sigue los consejos tipográficos de Enric Jardí
 - La familia tipográfica debe ajustarse a lo que queremos transmitir. ¿Moderna, manual, etc.?
 - Evitar mayúsculas para textos largos.
 - 2 familias por proyecto como mucho y que tengan contraste entre ellas.
-- Preferiblemente alineación a la izquierda en bandera. Como Apple
-- Columnas como las de un periódico o un libro, no más
+- Preferiblemente alineación a la izquierda en bandera. Como Apple.
+- Columnas como las de un periódico o un libro, no más.
 
 ![bg right:40%](img/tipos.png)
 
@@ -145,7 +145,7 @@ Referencias:
 
 <strong>Lo más importante para el puesto al que aspiramos arriba y a la izquierda</strong>
 
- El patrón de diseño en forma de Z viene de la forma en que la mayoría de los usuarios escanean las pantallas de un producto digital.
+El patrón de diseño en forma de Z viene de la forma en que la mayoría de los usuarios escanean las pantallas de un producto digital.
 
 Referencia:
 - 🅱️ [Ejemplo visual del patrón de lectura en Z](https://jorgebenitezlopez.com/tiddlywiki/pro/lecturadeunaweb.jpg): 
@@ -160,7 +160,6 @@ Diseñar los detalles del contenido que tiene que aparecer. Por ejemplo las fech
 
 Referencias:
 - 🇬🇧 [UK Design Principles – Government Digital Service](https://www.gov.uk/guidance/government-design-principles)
-- 📊 [Design with Data – Government Digital Service](https://www.gov.uk/service-manual/measuring-success/using-data-to-improve-your-service)
 
 ![bg right:40%](img/detalles.jpg)
 
